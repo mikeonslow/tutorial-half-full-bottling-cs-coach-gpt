@@ -116,7 +116,7 @@ Allows your GPT to browse the web. This allows the GPT data to transcend the kno
 
 Allows your GPT to generate images. This can be handy if you want the final output to include an image. 
 
-#### Code Interperter
+#### Code Interpreter
 
 Allows your GPT to run code. When enabled, this GPT can analyze data, work with files you've uploaded, do math, and more. 
 
