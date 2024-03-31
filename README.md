@@ -104,6 +104,22 @@ Limitations:
 
 Note: An error will be displayed if a user/org cap has been hit. 
 
+### Capabilities
+
+Capabilties add additional abilities to your GPT, at the moment, ChatGPT allows for **Web Browsing**, **DALL-E Image Generation** and **Code Interperter** to be enabled.
+
+#### Web Browsing
+
+Allows your GPT to browse the web. This allows the GPT data to transcend the knowledge it's been trained on and the knowledge it's been given via "Knowledge" uploads.
+
+#### DALL-E Image Generation
+
+Allows your GPT to generate images. This can be handy if you want the final output to include an image. 
+
+#### Code Interperter
+
+Allows your GPT to run code. When enabled, this GPT can analyze data, work with files you've uploaded, do math, and more. 
+
 ### Actions
 
 OpenAI Actions are a way to interact with 3rd party APIs and services. In this example app, I'm reaching out to Deepgram (deepgram.com) to transcribe audio files and add sentiment analysis.
