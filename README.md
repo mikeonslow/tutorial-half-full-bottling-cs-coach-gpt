@@ -106,7 +106,7 @@ Note: An error will be displayed if a user/org cap has been hit.
 
 ### Capabilities
 
-Capabilties add additional abilities to your GPT, at the moment, ChatGPT allows for **Web Browsing**, **DALL-E Image Generation** and **Code Interperter** to be enabled.
+Capabilities add additional abilities to your GPT, at the moment, ChatGPT allows for **Web Browsing**, **DALL-E Image Generation** and **Code Interperter** to be enabled.
 
 #### Web Browsing
 
