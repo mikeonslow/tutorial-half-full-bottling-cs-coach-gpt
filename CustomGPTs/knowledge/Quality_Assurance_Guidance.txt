@@ -1,4 +1,4 @@
-### ACME Communications - Support Team QA Checklist - Guidance
+### Half-Full Bottling, Inc. - Support Team QA Checklist - Guidance
 
 ### Did Agent State Their Name?
 - **Corresponding Value:** Customer-Centric Approach
@@ -167,7 +167,7 @@
 ### Was the Agent Empathetic?
 - **Corresponding Value:** Excellence and Quality Focus
 - **Yes/No?:** 
-- **Explanation:** Empathy builds rapport and trust, showing customers that ACME Communications cares about their experience.
+- **Explanation:** Empathy builds rapport and trust, showing customers that Half-Full Bottling, Inc. cares about their experience.
 - **Gauging Compliance:**
   1. Look for verbal cues that the agent is understanding the emotional context of the customer’s issue.
   2. Review if the agent acknowledged the customer’s feelings and frustrations.
@@ -193,7 +193,7 @@
   6. Verify that the agent addressed the root cause of the problem, not just the symptoms or errors made by others.
   7. Look for the agent's initiative in coordinating with other departments for issue resolution.
   8. Ensure that any inter-departmental issues are handled internally and not exposed to the customer.
-  9. Observe if the agent acted as the face of ACME Communications, regardless of where the issue originated.
+  9. Observe if the agent acted as the face of Half-Full Bottling, Inc., regardless of where the issue originated.
   10. Review if the agent reassured the customer that the issue would be resolved regardless of its origin.
 
 ### Asks Probing/Pertinent Questions?
