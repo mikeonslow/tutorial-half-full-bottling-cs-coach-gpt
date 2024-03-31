@@ -223,7 +223,7 @@ https://platform.openai.com/docs/assistants/tools/actions
 
 Helpful video on building OpenAI Actions that connect Zapier to ChatGPT: https://www.youtube.com/watch?v=qzeaHm4J3bk
 
-### Conversatoin Starters (Prompts)
+### Conversation Starters (Prompts)
 
 Conversation starters are a way to guide the conversation with the GPT. They can be used to provide context, ask questions, or give the GPT a starting point for a conversation.
 
